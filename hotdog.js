@@ -3,7 +3,7 @@ status=""
 objects= []
 
 function preload(){
-    img=loadImage("CYAT.jpg")
+    img=loadImage("hotdog.jpg")
 }
 
 function setup(){
@@ -30,6 +30,7 @@ function gotResults(error, results){
 
 function draw(){
     image(img,0,0,918,589)
+
     if(status != ""){
         for ( i=0; i<objects.length; i++){
             document.getElementById("status").innerHTML="Status: Detected Objects!"

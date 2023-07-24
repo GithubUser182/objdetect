@@ -3,7 +3,7 @@ status=""
 objects= []
 
 function preload(){
-    img=loadImage("CYAT.jpg")
+    img=loadImage("person.jpg")
 }
 
 function setup(){

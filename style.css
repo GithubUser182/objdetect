@@ -17,7 +17,7 @@ width: 20%;
 }
 
 canvas{
-    box-shadow: 10px 10px 10px red;
+    box-shadow: 10px 10px 10px rgb(11, 157, 69);
     border-radius: 10px;
 }
 
@@ -25,7 +25,12 @@ canvas{
     text-align: center;
 }
 
-#status
+#homebtn{
+    background-color: black;
+}
+
+#status #num_objects
 {
 font-size: 18px;
+color: rgb(0, 255, 170);
 }

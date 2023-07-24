@@ -1,5 +1,5 @@
 function mug(){
-    window.location.replace("mug.html")
+    window.location.replace("hotdog.html")
 }
 
 function cat(){
@@ -7,7 +7,7 @@ function cat(){
 }
 
 function hat(){
-    window.location.replace("xboxhat.html")
+    window.location.replace("car.html")
 }
 
 function bed(){
@@ -15,5 +15,5 @@ function bed(){
 }
 
 function clouds(){
-    window.location.replace("clouds.html")
+    window.location.replace("person.html")
 }
